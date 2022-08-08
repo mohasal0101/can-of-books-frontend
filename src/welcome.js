@@ -1,5 +1,6 @@
 import React from "react";
 import "./Styling/Welcome.css";
+import "./Styling/Footer.css";
 
 class Welcome extends React.Component {
     render () {
@@ -9,8 +10,10 @@ class Welcome extends React.Component {
                 <p className="mid1">
                     Please Login.
                 </p>
+                
             </div>
         );
+        
     }
 }
 
