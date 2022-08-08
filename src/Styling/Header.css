@@ -1,0 +1,24 @@
+.nav {
+    display: flex;
+    align-items: center;
+    padding: 1rem 2rem;
+  }
+  
+  .nav-brand {
+    margin-right: auto;
+  }
+  
+  .nav-links {
+    display: flex;
+    align-items: center;
+  }
+  
+  .nav-link,
+  .nav-link:visited {
+    color: #ccc;
+  }
+  
+  .nav-link:hover,
+  .nav-link:active {
+    color: #fff;
+  }
