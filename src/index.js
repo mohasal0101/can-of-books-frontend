@@ -18,6 +18,7 @@ root.render(
         <Routes>
           <Route path="/" element={<App />} />
           <Route path="profile" element={<Profile />} />
+          
         </Routes>
       </Router>
     </Auth0Provider>
