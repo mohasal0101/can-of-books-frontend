@@ -9,7 +9,9 @@ class Footer extends React.Component {
         <Navbar.Brand className="footer-nav-brand">
           All Rights Reserved - Code Fellows &copy; 2022
         </Navbar.Brand>
+        
       </Navbar>
+
     );
   }
 }
